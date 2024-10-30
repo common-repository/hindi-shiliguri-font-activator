@@ -1,0 +1,33 @@
+=== Hindi Shiliguri Font Activator ===
+Contributors: Ajbur Rahman
+Tags: font, typography, hindi, google fonts, hind siliguri
+Requires at least: 5.0
+Tested up to: 6.6
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+== Description ==
+
+**Hindi Shiliguri Font Activator** প্লাগিন আপনার ওয়ার্ডপ্রেস সাইটের জন্য ডিফল্ট ফন্ট হিসেবে "Hind Siliguri" ফন্ট সক্রিয় করে। এটি Google Fonts থেকে সরাসরি ফন্ট লোড করে এবং সম্পূর্ণ সাইটে প্রয়োগ করে।
+
+== Installation ==
+
+1. ডাউনলোড করুন এবং `wp-content/plugins/` ডিরেক্টরিতে আপলোড করুন।
+2. ওয়ার্ডপ্রেস অ্যাডমিন প্যানেলে যান এবং **Plugins** থেকে "Hindi Shiliguri Font Activator" সক্রিয় করুন।
+3. সক্রিয় করার পর, আপনার সাইটের সমস্ত টেক্সট "Hind Siliguri" ফন্টে প্রদর্শিত হবে।
+
+== Frequently Asked Questions ==
+
+= প্লাগিনটি কিভাবে কাজ করে? =
+
+প্লাগিনটি Google Fonts থেকে "Hind Siliguri" ফন্ট লোড করে এবং আপনার সাইটের সমস্ত টেক্সট এলিমেন্টে ডিফল্ট ফন্ট হিসেবে এটি প্রয়োগ করে।
+
+= আমি কীভাবে নির্দিষ্ট পেজে বা এলিমেন্টে এই ফন্টটি প্রয়োগ করব? =
+
+আপনি কাস্টম CSS ব্যবহার করে নির্দিষ্ট পেজ বা এলিমেন্টে ফন্ট প্রয়োগ করতে পারেন। উদাহরণস্বরূপ:
+
+```css
+.page-id-1234 body {
+    font-family: 'Hind Siliguri', sans-serif;
+}
